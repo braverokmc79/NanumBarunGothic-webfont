@@ -1,4 +1,4 @@
-# 나눔바른고딕 웹폰트
+# 나눔바른고딕 웹폰트2
 
 English docs are avaliable on [here][english-version]
 
